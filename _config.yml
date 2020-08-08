@@ -1,0 +1,8 @@
+# Book settings
+title: Boojum
+author: Boojum
+logo: logo.jpg
+
+latex:
+  latex_documents:
+    targetname: book.tex
